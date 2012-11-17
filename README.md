@@ -9,7 +9,13 @@ License Information Follows
 * css/style.css
 * app/optionsWidget.js
 * app/config.js
+* images/houndstooth.png
 * config.xml
+* sample_icon_72x72.png
+* abstract.txt
+* app.json
+* screenshot.png
+* README.md
 
 Copyright (c) 2012, Intel Corporation
 
@@ -59,13 +65,3 @@ Copyright (c) 2012, jQuery Foundation and other contributors.
 * source:  http://jquery.com/
 * source:  http://jquerymobile.com/
 * license: http://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt
-
-
-Images
-------
-* images/houndstooth.png
-* sample_icon_72x72.png
-
-Created by Intel Corporation, licensed under the Creative Commons Attribution license.
-
-* license: http://creativecommons.org/licenses/by/3.0/us/
