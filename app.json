@@ -11,5 +11,6 @@
 	"iconUrl":"https://github.com/gomobile/sample-jqm-tab-nav/blob/master/icon.png",
 	"screenshotUrl":"https://github.com/gomobile/sample-jqm-tab-nav/blob/master/screenshot.png",
 	"visible" : "true",
-	"zipUrl":""
+	"zipUrl":"",
+	"relname":"4.0.0"
 }
