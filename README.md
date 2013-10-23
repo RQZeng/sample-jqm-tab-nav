@@ -74,3 +74,9 @@ Copyright (c) 2012, jQuery Foundation and other contributors.
 * source:  http://jquery.com/
 * source:  http://jquerymobile.com/
 * license: http://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt
+
+IMAGES: *.png; images/*.png
+----------------------------------------------------------------------------
+all images are created by Intel Corp.
+they are licensed under the Creative Commons Attribution 3.0 license
+http://creativecommons.org/licenses/by/3.0/us/
